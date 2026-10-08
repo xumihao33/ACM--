@@ -1,0 +1,8 @@
+/build/
+/scratch/
+*.exe
+*.o
+*.obj
+*.pdb
+.env
+.env.*
